@@ -1,4 +1,12 @@
 {
+  "name": "graphql-and-apollo-server-client",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:yazaldefilimonepinto/graphql-and-apollo-server-client.git",
+  "author": "yazalde filimone <yazaldefilimon@gmail.com>",
+  "scripts": {
+    "dev": "nodemon -r sucrase/register src/index.js"
+  },
   "dependencies": {
     "apollo-server": "^3.10.0",
     "graphql": "^16.5.0"
@@ -7,6 +15,9 @@
     "eslint": "^8.21.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.2.1",
-    "prettier": "^2.7.1"
-  }
+    "nodemon": "^2.0.19",
+    "prettier": "^2.7.1",
+    "sucrase": "^3.25.0"
+  },
+  "license": "MIT"
 }
