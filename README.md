@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://img.shields.io/static/v1?label=Graphql & Apollo Server Client&message=Welcome&color=FFFFFF&labelColor=110C2F" alt="graphql-and-apollo-server-client welcome!" />
+  <img src="https://img.shields.io/static/v1?label=Graphql-and-Apollo-Server&message=Welcome&color=FFFFFF&labelColor=110C2F" alt="graphql-and-apollo-server-client welcome!" />
   <img alt="License" src="https://img.shields.io/static/v1?label=version&message=1.0&color=FFFFFF&labelColor=110C2F">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=FFFFFF&labelColor=110C2F">
   <img alt="Stars" src="https://img.shields.io/github/stars/yazaldefilimonepinto/graphql-and-apollo-server-client?color=FFFFFF&labelColor=110C2F">
