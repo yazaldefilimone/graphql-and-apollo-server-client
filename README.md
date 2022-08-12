@@ -6,7 +6,7 @@
   <img alt="Languages" src="https://img.shields.io/github/languages/count/yazaldefilimonepinto/graphql-and-apollo-server-client?color=FFFFFF&labelColor=110C2F">
 </p>
 
-GraphQL and Apollo Server + Client - Create applications and join everything into an endpoint graph using data from APIs and DBs
+GraphQL and Apollo Server + Client - Create applications and join everything into an endpoint graph using data from APIs and DBs. Course content of [@Luiz-Otávio](https://github.com/luizomf)
 
 ### Technology
 - [GraphQl](https://graphql.org/)
