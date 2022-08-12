@@ -17,13 +17,7 @@ GraphQL and Apollo Server + Client - Create applications and join everything int
 - [Docker Compose](https://docs.docker.com/compose/)
 - [WebSockets](https://developer.mozilla.org/pt-BR/docs/Web/API/WebSockets_API)
 
-<a id="license"></a>
-
-### License
-
-[MIT](https://github.com/yazaldefilimonepinto/graphql-and-apollo-server-client/blob/main/LICENSE) Project License
-
-Creator with 💙 by [Yazalde Filimone](https://www.linkedin.com/in/yazalde-filimone/)
+### Content
 
 - Best practices with GraphQL and Apollo Server Stand-alone.
 - Apollo Client V3 - We will use @apollo/client v3 for frontend.
@@ -40,3 +34,11 @@ Creator with 💙 by [Yazalde Filimone](https://www.linkedin.com/in/yazalde-fili
 - Authentication with JWT and also with secure Cookies.
 - Authentication on WebSockets connections (Subscriptions).
 - Unix Terminal Commands (Extra).
+
+<a id="license"></a>
+
+### License
+
+[MIT](https://github.com/yazaldefilimonepinto/graphql-and-apollo-server-client/blob/main/LICENSE) Project License
+
+Creator with 💙 by [Yazalde Filimone](https://www.linkedin.com/in/yazalde-filimone/)
